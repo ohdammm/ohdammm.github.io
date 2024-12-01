@@ -23,7 +23,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 - **Modelo interactivo:**  
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
-![Tetraedro](ruta/a/la/imagen_tetraedro.png)  
+<!--[Tetraedro](ruta/a/la/imagen_tetraedro.png)  -->
 **Figura 1.** Representación del Tetraedro.
 
 ---
@@ -39,7 +39,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 - **Modelo interactivo:**  
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
-![Cubo](ruta/a/la/imagen_cubo.png)  
+<!--[Cubo](ruta/a/la/imagen_cubo.png)  -->
 **Figura 2.** Representación del Cubo.
 
 <model-viewer
@@ -67,7 +67,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 - **Modelo interactivo:**  
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
-![Octaedro](ruta/a/la/imagen_octaedro.png)  
+<!--[Octaedro](ruta/a/la/imagen_octaedro.png)  -->
 **Figura 3.** Representación del Octaedro.
 
 ---
@@ -83,7 +83,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 - **Modelo interactivo:**  
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
-![Dodecaedro](ruta/a/la/imagen_dodecaedro.png)  
+<!--[Dodecaedro](ruta/a/la/imagen_dodecaedro.png)  -->
 **Figura 4.** Representación del Dodecaedro.
 
 ---
@@ -99,7 +99,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 - **Modelo interactivo:**  
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
-![Icosaedro](ruta/a/la/imagen_icosaedro.png)  
+<!--[Icosaedro](ruta/a/la/imagen_icosaedro.png)  -->
 **Figura 5.** Representación del Icosaedro.
 
 ---
