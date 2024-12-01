@@ -33,7 +33,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
   - **Número de caras:** 6  
   - **Tipo de cara:** Cuadrados  
   - **Vértices:** 8  
-  - **Aristas:** 12  
+  - **Aristas:** 12   
 - **Propiedades especiales:**  
   Es el sólido platónico más conocido y también se le llama "hexaedro". Sus caras son perfectos cuadrados.  
 - **Modelo interactivo:**  
