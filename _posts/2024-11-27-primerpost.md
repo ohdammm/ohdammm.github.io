@@ -44,7 +44,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 
 <model-viewer
     alt="Modelo 3D del Tetraedro"
-    src="/assets/modelos/cubo.glb"
+    src="/assets/models/cubo.glb"
     ar
     environment-image="neutral"
     shadow-intensity="1"
@@ -103,7 +103,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 **Figura 5.** Representación del Icosaedro.
 
 ---
-
+S
 ## **Notas adicionales**  
 - Los modelos interactivos pueden implementarse usando librerías como [three.js](https://threejs.org/) o herramientas como [GeoGebra](https://www.geogebra.org/).  
 - Considera incluir códigos QR vinculados a una experiencia de realidad aumentada para visualizar los modelos en 3D en la aplicación IonXR.
