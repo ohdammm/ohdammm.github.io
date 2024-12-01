@@ -7,6 +7,10 @@ tags: [inicio]
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
 
+## **Notas **  
+- Los modelos interactivos son formato glb hosteados en github, usando la libreria [model viewer](https://modelviewer.dev/), pueden tener texturas, hdris y tiene soporte para ar básica en dispositivos que lo soporten.
+
+
 # **Sólidos Platónicos**  
 Los sólidos platónicos son los únicos poliedros convexos cuyas caras son polígonos regulares idénticos y en los que el mismo número de caras se encuentra en cada vértice. Existen exactamente cinco sólidos platónicos: el Tetraedro, el Cubo, el Octaedro, el Dodecaedro y el Icosaedro.
 
@@ -24,14 +28,17 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
 <!--[Tetraedro](ruta/a/la/imagen_tetraedro.png)  -->
-**Figura 1.** Representación del Tetraedro.
-
+**Figura 1.** Representación del Tetraedrocon un hdr de entorno.
+S
 <model-viewer
     alt="Modelo 3D del Tetraedro"
     src="/assets/models/tetraedro.glb"
     ar
-    environment-image="/assets/models/hdr.exr"
-    shadow-intensity="1"
+    auto-rotate
+    environment-image="/assets/models/hdr.jpg"
+    skybox-height="2m" max-camera-orbit="auto 90deg auto"
+    skybox-image="/assets/models/hdr.jpg"
+    shadow-intensity="0.5"
     camera-controls
     touch-action="pan-y"
     style="width: 100%; height: 400px;">
@@ -53,23 +60,30 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
   *(Incluir aquí un enlace o un modelo embebido si es posible)*  
 
 <!--[Cubo](ruta/a/la/imagen_cubo.png)  -->
-**Figura 2.** Representación del Cubo.
+**Figura 2.** Representación del Cubo sin hdr.
 
-<model-viewer
-    alt="Modelo 3D del Tetraedro"
+
+  <model-viewer
+    alt="Modelo 3D del Hexaedro"
     src="/assets/models/cubo.glb"
     ar
     environment-image="neutral"
     shadow-intensity="1"
     camera-controls
     touch-action="pan-y"
-    style="width: 100%; height: 400px;">
-</model-viewer>
+    auto-rotate
+    style="width: 400px; height: 400px;">
+  </model-viewer>
+
+
+
 
 
 ---
 
-## **3. Octaedro**  
+
+
+## **3. Octaedro (lista de relleno para mostrar la estructura del sitio)**  
 - **Características principales:**  
   - **Número de caras:** 8  
   - **Tipo de cara:** Triángulos equiláteros  
@@ -98,14 +112,9 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 
 <!--[Dodecaedro](ruta/a/la/imagen_dodecaedro.png)  -->
 **Figura 4.** Representación del Dodecaedro.
-
 ---
 
-## **5. Icosaedro**  
-- **Características principales:**  
-  - **Número de caras:** 20  
-  - **Tipo de cara:** Triángulos equiláteros  
-  - **Vértices:** 12  
+## **4. Dodecaedro**  
   - **Aristas:** 30  
 - **Propiedades especiales:**  
   Es el sólido platónico con el mayor número de caras. Es dual del dodecaedro.  
@@ -117,5 +126,5 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 
 ---
 S
-## **Notas adicionales**  
-- Los modelos interactivos son formato glb hosteados en github, usando la libreria model viewer, pueden tener texturas, hdris y tiene soporte para ar básica en dispositivos que lo soporten.
+## **Notas **  
+- Los modelos interactivos son formato glb hosteados en github, usando la libreria [model viewer](https://modelviewer.dev/), pueden tener texturas, hdris y tiene soporte para ar básica en dispositivos que lo soporten.
