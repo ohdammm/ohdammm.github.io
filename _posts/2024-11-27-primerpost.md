@@ -11,6 +11,18 @@ tags: [inicio]
 - Los modelos interactivos son formato glb hosteados en github, usando la libreria [model viewer](https://modelviewer.dev/), pueden tener texturas, hdris y tiene soporte para ar básica en dispositivos que lo soporten.
 
 
+Debemos incluir:
+
+-Teoría (cantidad de vertices, simetrias, dualidades)
+-visualizador secillo
+-Visualizador con texturas
+-Fotos de objetos (si existen) con esa forma
+-Actividad en eon explorable
+-Curiosidades si las hay
+
+
+
+
 # **Sólidos Platónicos**  
 Los sólidos platónicos son los únicos poliedros convexos cuyas caras son polígonos regulares idénticos y en los que el mismo número de caras se encuentra en cada vértice. Existen exactamente cinco sólidos platónicos: el Tetraedro, el Cubo, el Octaedro, el Dodecaedro y el Icosaedro.
 
